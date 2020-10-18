@@ -2,4 +2,6 @@
  Udemy Certificates
 
 [Algorithmic Trading In Forex: Create Your First Forex Robot!](https://www.udemy.com/course/learn-mql4/)
-![Algorithmic Trading In Forex: Create Your First Forex Robot!](jpgs/Algorithmic Trading In Forex: Create Your First Forex Robot!.jpg)
+![Algorithmic Trading In Forex: Create Your First Forex Robot!](/jpgs/Algorithmic Trading In Forex: Create Your First Forex Robot!.jpg)
+
+<img src="jpgs/Algorithmic Trading In Forex- Create Your First Forex Robot!.jpg" alt="Algorithmic Trading In Forex- Create Your First Forex Robot!" style="width:50%">
